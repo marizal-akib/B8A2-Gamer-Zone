@@ -402,3 +402,21 @@
      line-height: normal;
      margin-top: 35px;
  }
+ @media screen and (max-width: 576px) {
+    nav,
+    .menu,
+    .nav-container {
+        margin: 20px auto;
+        flex-direction: column;
+    }
+.follow-us{
+    margin-top: 20px;
+    
+}
+nav ul{
+    gap: 20px;
+}
+    .logo{
+        display: flex;
+    }
+ }
