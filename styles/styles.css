@@ -449,7 +449,7 @@
      margin-top: 65px;
  }
 
- @media screen and (max-width: 576px) {
+ /* @media screen and (max-width: 576px) {
 
      nav,
      .menu,
@@ -480,6 +480,6 @@
      }
 
      nav ul {
-         gap: 20px;
+         gap: 10px;
      }
- }
+ } */
